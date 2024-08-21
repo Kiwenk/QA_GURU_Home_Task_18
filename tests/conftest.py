@@ -13,4 +13,4 @@ def setup_browser():
 
     yield
 
-    browser.close()
+    browser.quit()
